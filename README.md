@@ -99,7 +99,31 @@ https://github.com/hi-hayeon-bye/study-check-cicd
 
 ---
 
-## 8. 로컬 실행 방법
+## 8. GitHub Actions CI/CD 시연 영상
+
+YouTube 링크:
+
+https://www.youtube.com/watch?si=a9sQh4z7b2Oi5Wcv&v=nx0Hfr8t_qg&feature=youtu.be
+
+---
+
+## 9. AWS Amplify 배포 주소
+
+AWS Amplify 배포 URL:
+
+https://main.d3dya66i4c28hz.amplifyapp.com/
+
+---
+
+## 10. AWS Amplify 서비스 활용 시연 영상
+
+YouTube 링크:
+
+https://www.youtube.com/watch?si=O1u_VXannyy0th9M&v=4TeSQx3Vg34&feature=youtu.be
+
+---
+
+## 9. 로컬 실행 방법
 
 프로젝트를 로컬에서 실행하려면 아래 명령어를 사용합니다.
 
